@@ -4,7 +4,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Ali El-Shoraa - Frontend Developer | React & Next.js Enthusiast" style="max-width: 800px; width: 100%;" />
+  <img src="./assets/banner.webp" alt="Ali El-Shoraa - Frontend Developer | React & Next.js Enthusiast" style="max-width: 800px; width: 100%;" />
 </p>
 
 <!-- Position & Contact Section -->
@@ -17,10 +17,10 @@
   <a href="https://ali-el-shoraa.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" alt="Portfolio" />
   </a>
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--el--shoraa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-el-shoraa) -->
-  <!-- LinkedIn -->
+
+    <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ali-el-shoraa" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <!-- Gmail -->
@@ -28,15 +28,16 @@
     <img src="https://img.shields.io/badge/Gmail-ali.m.elshoraa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
   <!-- Telegram -->
   <a href="https://t.me/Ali_ElShoraa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201234567890" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
 </p>
 
 ---
