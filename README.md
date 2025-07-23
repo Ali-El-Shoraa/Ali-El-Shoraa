@@ -2,15 +2,20 @@
 **Ali-El-Shoraa/Ali-El-Shoraa** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
+<div style="display: flex; align-items: center; gap:12px">
 <!-- Banner Image -->
+<!-- Avatar and Title: stacked with center alignment -->
+
 <p align="center">
-  <img src="./assets/banner.webp" alt="Ali El-Shoraa - Frontend Developer | React & Next.js Enthusiast" style="max-width: 800px; width: 100%;" />
+  <img src="./assets/banner.webp" alt="Ali El-Shoraa"
+    style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; border: 4px solid #4e8cff;" />
 </p>
 
-<!-- Position & Contact Section -->
 <p align="center">
-  🎯 <strong>Frontend Developer | Web Scraping & Automation Enthusiast</strong>
+  🎯 <strong>Frontend Developer <a style="text-decoration: underline; color: inherit;">(React.js – Next.js)</a> & Web Scraping</strong>
 </p>
+
+</div>
 
 <p align="center">
   <!-- Portfolio -->
@@ -18,7 +23,9 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" alt="Portfolio" />
   </a>
 
-    <!-- LinkedIn -->
+   
+## 🌐 Connect with Me
+
   <a href="https://linkedin.com/in/ali-el-shoraa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
