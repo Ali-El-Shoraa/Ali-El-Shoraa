@@ -24,7 +24,7 @@
   <a href="mailto:ali.m.elshoraa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ali.m.elshoraa@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/201550859246" target="_blank">
+  <a href="https://wa.me/201098768258" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
   </a>
   <a href="https://t.me/Ali_El_Shoraa" target="_blank">
